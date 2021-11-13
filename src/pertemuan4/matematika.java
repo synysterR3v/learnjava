@@ -1,4 +1,4 @@
-package tugas;
+package pertemuan4;
 
 
 public class matematika{
